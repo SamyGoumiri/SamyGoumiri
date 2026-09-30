@@ -1,14 +1,14 @@
-# Bonjour, je suis Samy Goumiri 👋
+# Bonjour, je suis Samy 👋
 
-Étudiant en **Licence 3 ISIL** (Ingénierie des Systèmes d'Information et des Logiciels) à l'**ESST** (École Supérieure des Sciences et de la Technologie), en Algérie. Je développe des applications web et mobiles, de la base de données à l'interface.
+Étudiant en **Master Cybersécurité**. Je développe des applications web et mobiles, de la base de données à l'interface.
 
 ## Projets
 
 | Projet | Description | Stack |
 |---|---|---|
-| [**Rihla**](https://github.com/SamyGoumiri/rihla) | Application mobile de découverte de sites touristiques en Algérie : carte, avis, mode hors ligne et mode invité. **PFE de L3 ISIL**, réalisé en binôme. | Flutter, Dart, Supabase, SQLite |
-| [**MediCloud**](https://github.com/SamyGoumiri/MediCloud) | Plateforme multi-cabinets de gestion médicale, avec recherche de cabinets classés par les avis patients (WSM et TOPSIS). Projet du module **PAW**, en équipe de quatre. | PHP, MySQL, JavaScript |
-| [**Esperanto**](https://github.com/SamyGoumiri/esperanto) | Plateforme web d'apprentissage des langues avec leçons, mini-jeu et tuteur IA. Réalisée lors du **hackathon du club Devshroom** (ESST, 2025). | PHP, MySQL, API Gemini |
+| [**Rihla**](https://github.com/SamyGoumiri/rihla) | Application mobile de découverte de sites touristiques en Algérie : carte, avis, mode hors ligne et mode invité. **PFE de licence**, réalisé en binôme. | Flutter, Dart, Supabase, SQLite |
+| [**MediCloud**](https://github.com/SamyGoumiri/MediCloud) | Plateforme multi-cabinets de gestion médicale, avec recherche de cabinets classés par les avis patients (WSM et TOPSIS). Projet universitaire de programmation web avancée, en équipe de quatre. | PHP, MySQL, JavaScript |
+| [**Esperanto**](https://github.com/SamyGoumiri/esperanto) | Plateforme web d'apprentissage des langues avec leçons, mini-jeu et tuteur IA. Réalisée en équipe lors d'un **hackathon** (2025). | PHP, MySQL, API Gemini |
 
 ## Compétences
 
